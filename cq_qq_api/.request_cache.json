@@ -1,0 +1,261 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"dc28bb1c2cffde54eb47bebbc071e390ab9b8f4d2ccf2d772403e089c8b3df6c\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAPR61WcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "204982732": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cq_qq_api",
+        "name": "cq_qq_api",
+        "version": "1.0.5",
+        "link": "https://github.com/XueK66/PF-cq_qq_api",
+        "authors": [
+          "XueK__"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "websocket-client"
+        ],
+        "description": {
+          "en_us": "Websocket application to process information from QQ",
+          "zh_cn": "处理QQ通信的websocket应用"
+        }
+      },
+      "size": 10329,
+      "hash_md5": "2f31e92ea707e7d312d962475c6545e8",
+      "hash_sha256": "9f6632e1ef6e9d3c772d6c3d07e7cdd362ae4ded369b0ee4f775c8d2a5aed9ce",
+      "ttl": 100
+    },
+    "203258466": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cq_qq_api",
+        "name": "cq_qq_api",
+        "version": "1.0.4",
+        "link": "https://github.com/XueK66/PF-cq_qq_api",
+        "authors": [
+          "XueK__"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "websocket-client"
+        ],
+        "description": {
+          "en_us": "Websocket application to process information from QQ",
+          "zh_cn": "处理QQ通信的websocket应用"
+        }
+      },
+      "size": 10324,
+      "hash_md5": "9baf02c1a0c51cf6fa9c6b8eafdf54cc",
+      "hash_sha256": "a8f1e1581dde5966d7e7eab1a55c316a4d589ba4455abbf66d79e4862f5d34b7",
+      "ttl": 100
+    },
+    "197087387": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cq_qq_api",
+        "name": "cq_qq_api",
+        "version": "1.0.3",
+        "link": "https://github.com/XueK66/PF-cq_qq_api",
+        "authors": [
+          "XueK__"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "websocket-client"
+        ],
+        "description": {
+          "en_us": "Websocket application to process information from QQ",
+          "zh_cn": "处理QQ通信的websocket应用"
+        }
+      },
+      "size": 9985,
+      "hash_md5": "7319f104fec1e52268ad8faf939e9362",
+      "hash_sha256": "8f3592cdd08555a872c79c3662576e694c459f5071e96c399736569217b15f46",
+      "ttl": 100
+    },
+    "193418548": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cq_qq_api",
+        "name": "cq_qq_api",
+        "version": "1.0.2",
+        "link": "https://github.com/XueK66/PF-cq_qq_api",
+        "authors": [
+          "XueK__"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "websocket-client"
+        ],
+        "description": {
+          "en_us": "Websocket application to process information from QQ",
+          "zh_cn": "处理QQ通信的websocket应用"
+        }
+      },
+      "size": 9836,
+      "hash_md5": "c2f89a88a16c82c4279fff9920c15b3f",
+      "hash_sha256": "c65c7d8c1584a02c7904a87fba9a227ba2b8ce8494e9bb0df5e1160fd74e07c0",
+      "ttl": 100
+    },
+    "186629219": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cq_qq_api",
+        "name": "cq_qq_api",
+        "version": "1.0.1",
+        "link": "https://github.com/XueK66/PF-cq_qq_api",
+        "authors": [
+          "XueK__"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "websocket-client"
+        ],
+        "description": {
+          "en_us": "Websocket application to process information from QQ",
+          "zh_cn": "处理QQ通信的websocket应用"
+        }
+      },
+      "size": 9083,
+      "hash_md5": "094ec3b1cb03496de5aa30f1e94f199d",
+      "hash_sha256": "de2ee1d8ddc673bd37bd24d872c135c00c6259a663c27933536b3e4eb1253747",
+      "ttl": 100
+    },
+    "186175531": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cq_qq_api",
+        "name": "cq_qq_api",
+        "version": "1.0.0",
+        "link": "https://github.com/XueK66/PF-cq_qq_api",
+        "authors": [
+          "XueK__"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "websocket-client"
+        ],
+        "description": {
+          "en_us": "Websocket application to process information from QQ",
+          "zh_cn": "处理QQ通信的websocket应用"
+        }
+      },
+      "size": 8981,
+      "hash_md5": "cc027caa77e154b2d004543564fc4514",
+      "hash_sha256": "e85b5c19249bf83eea16f19c5a986cb274c689965075ac6a4b36c6e72c2b7132",
+      "ttl": 100
+    },
+    "218293905": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cq_qq_api",
+        "name": "cq_qq_api",
+        "version": "1.1.0",
+        "link": "https://github.com/XueK66/PF-cq_qq_api",
+        "authors": [
+          "XueK__"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "websocket-client"
+        ],
+        "description": {
+          "en_us": "Websocket application to process information from QQ",
+          "zh_cn": "处理QQ通信的websocket应用"
+        }
+      },
+      "size": 25314,
+      "hash_md5": "6c79ba67e816561f0ae75929797cd75c",
+      "hash_sha256": "8dc6445c08ab23e7f1e1540e9a39b6172e7db862b174530faf6bae7c452ddf26",
+      "ttl": 100
+    },
+    "228108378": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cq_qq_api",
+        "name": "cq_qq_api",
+        "version": "1.2.1",
+        "link": "https://github.com/XueK66/PF-cq_qq_api",
+        "authors": [
+          "XueK__"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "websocket-client"
+        ],
+        "description": {
+          "en_us": "Websocket application to process information from QQ",
+          "zh_cn": "处理QQ通信的websocket应用"
+        }
+      },
+      "size": 11254,
+      "hash_md5": "be5a6527d13a4512ade2e4ec912cec8c",
+      "hash_sha256": "187db5ad16a8da4fa971d9fe7782c1b6c77f7f5fb300631b4221f4a383d871f7",
+      "ttl": 100
+    },
+    "263853710": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cq_qq_api",
+        "name": "cq_qq_api",
+        "version": "1.2.2",
+        "link": "https://github.com/XueK66/PF-cq_qq_api",
+        "authors": [
+          "XueK__"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "websocket-client>=1.4.0"
+        ],
+        "description": {
+          "en_us": "Websocket application to process information from QQ",
+          "zh_cn": "处理QQ通信的websocket应用"
+        }
+      },
+      "size": 28178,
+      "hash_md5": "ac80085f9a559ca181eeada7f652c98c",
+      "hash_sha256": "c725f28f2c4542a9157a7ee9a12f45cd2b97aecb9bde9d18c774a962d11b2206",
+      "ttl": 100
+    },
+    "264009712": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cq_qq_api",
+        "name": "cq_qq_api",
+        "version": "1.3.0",
+        "link": "https://github.com/XueK66/PF-cq_qq_api",
+        "authors": [
+          "XueK__"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "websocket-client>=1.4.0"
+        ],
+        "description": {
+          "en_us": "Websocket application to process information from QQ",
+          "zh_cn": "处理QQ通信的websocket应用"
+        }
+      },
+      "size": 28347,
+      "hash_md5": "d1efeddec1d5d0486e1071d7f01b9988",
+      "hash_sha256": "dabbcdb1700a9d8fbef4a1689ca57a3b6a8269dd6867b578a708d548e3203d3e",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"268838eaeb233b9e3db59a8b3b7926a13cd333a928ed34c612da1f1e8a3d6565\"",
+    "data": "H4sIAEbAf2gC/6WYbW/bNhCA/4rhr6stxXbcxEDRfQiWD2uatEi3LsMgUBJtMaZIhaTsOYL/+44venOXNDaBILaPvIdH8ni8YzUk6XAxuJhNzudn4cXZu8GQ8RRHRjr8Gq1XV7c3j9nk9stQN6Eca/ndb6PkKXp6ilBBtHxZUhrVjd9L/Pt8Hhz2KQTZIKV7LBGVGCR8y7CA39WQ8hVhra7ubgx4PwsvZ5fzed+qm6sv8z++f6bJYxLeXK3D2/u/JloFAR+JqBRU98qUKuQiCKxUjldEZWVcSiwSzhRmapzwPCiDeoyPmw8zTVkJx7GDadEhsSCOZhGAlEFreaZyemhEp3vbcckp5VtQjt4+QNAotQTCVscTQKkKuMowLBi07s3UiVRHGWMUKvMBy2UYEpZO4PQYilMBc7RD7KtA4IJbWBnLRJBCEc6OMqynqElcrBAjz+hoEigagLbpKEWjoDXxBpztKFWrUQXmyCS7vR0/wWQDC3s87kBV09SuMGf1G/QzHg6f0YbgbVS3FGVMSWI2gSgcoTQ3J9Sc3f1bvfyHIJDiZltAkUHYMF4s1p2w8PrMzLK+hNekny3Ni4DAaGvMGu9Op2jlSv+vT0QC5w3FXCDFxenYHqXq/TSjKIzy0+lG2wQvzj1W0Gib6C1lid/mqi/TDEQ2p4GVeewClSe4PQdISrJiGJ/OaghV0MTRWCCWZB7QGlC5b3aH0cpjg5ENYzHl8ekU6BQYQhXIDLk7Q0VelmmmBvSRAi/9kBrQIpXw2WNjojB7XAPhzlKw36cza0BQ1UiK2KpEKw9mQ6gv4hV6xsLLRoewcYwpQeLSM4y1kM4NH3uZ2TIOkwZfpr2pzOTznCifeRv9vpP7QrVf/gDWAq/oWAN6EdcGdNfkG9H/dwSXlfu5lgYE1S8FUlm9GAUS2GcttH5QxQjSnvF4XGUY2Ws9x8LnrFp1cweJJIP07GRSVQMgf8mRMvnz0piYQkJNOUpPt7IhND7ge5339ryABPB0oNHu8XJCsVSc+exLg+iRGVdkSZI31Q8vw3uU6qMkLMHvECTB4GSKJAT8FuoydxvEmPpcBVodpgBFuasfKEY+F1YNqAKX16a4oHznF2s6DHNcBUYKChWkNG0STmaj8GJ0Nrs/O1/M4G/6YIqVIu33Oh+F70eTyf3ZfDENF+Hlg/UtmR10mmvUZLqYXi7C9w91FHa2w9efljB6UuaKkVlH7ddWafGKUkLBq44rmZrxNuz4WivjOS4gG2gLLUme9a/zi356kPCS6VWagniLFCSeB8I6rzBPPzuV2SsxQzKyZxrkSpTYyQrBH3GiDqRtJOmJt2RNDtRNAtOWg0aZyKSERFsX822LrfZqQ0Nz/oXg9QuQm7SLjmlHEXAopj0RLzBzs+kRoQbGTGLzSgU1ndnxgo6m47D7Hnb9+dvgGjMsEB3cmcJ58MkqDjauqyzSf92T0vXdpxrw+rlxg8ugO2T3HSyZ31/Tx4c/z58f7tcfhrouR/pxR18Fa4gk7coSGSmcF7T/ArfFsUtCIl3F8OUSEu+nkoje2ihekEQv/N//wK8NkSQmlKhd/5nAVs921Tqr6SS1XzmPSvESlVRFtrzRoBxJZd8iCixy0mx2New9PehNRoQp1BPps941WBDrrW07pW4t9qZWzovIHkfF15jV73wMqy3MoucA3QS1lk/2/wGHviaiNxUAAA=="
+  }
+}

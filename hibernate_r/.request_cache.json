@@ -1,0 +1,245 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"cad16f95a46345f285998ff9c20ae9580c820c7f18dcc199d3826e2cfc74f735\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAHsGgWgC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "193135104": {
+      "meta": {
+        "schema_version": 4,
+        "id": "hibernate_r",
+        "name": "HibernateR",
+        "version": "1.2.0",
+        "link": "https://github.com/HIM049/MCDR_HibernateR",
+        "authors": [
+          "HIM049",
+          "sout_Nantang",
+          "RCUTANF"
+        ],
+        "dependencies": {
+          "online_player_api": "*",
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3"
+        ],
+        "description": {
+          "en_us": "A MCDReforged plugin. When there are no player in the server, the plugin can make it shutdown. And if someone want to visit the server, the plugin can make the server start again.",
+          "zh_cn": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+        }
+      },
+      "size": 7091,
+      "hash_md5": "bc3de8984a9867bee87066c42526bdd5",
+      "hash_sha256": "9825859faa49249660591fff06539ad64e705a66904f6cf3fe4bb5263af697f3",
+      "ttl": 100
+    },
+    "149709309": {
+      "meta": {
+        "schema_version": 4,
+        "id": "hibernate_r",
+        "name": "HibernateR",
+        "version": "1.2.0",
+        "link": "https://github.com/HIM049/MCDR_HibernateR",
+        "authors": [
+          "HIM049",
+          "sout_Nantang",
+          "RCUTANF"
+        ],
+        "dependencies": {
+          "online_player_api": "*",
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3"
+        ],
+        "description": {
+          "en_us": "A MCDReforged plugin. When there are no player in the server, the plugin can make it shutdown. And if someone want to visit the server, the plugin can make the server start again.",
+          "zh_cn": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+        }
+      },
+      "size": 8356,
+      "hash_md5": "128615556aa07523924c3d1a819ff713",
+      "hash_sha256": "60b8af42df6dbf18eafadab73e3a9de73127a21b3e3858789234d06b7dc738ef",
+      "ttl": 100
+    },
+    "95879153": {
+      "meta": {
+        "schema_version": 4,
+        "id": "hibernate_r",
+        "name": "HibernateR",
+        "version": "1.0.0",
+        "link": "https://github.com/HIM049/MCDR_HibernateR",
+        "authors": [
+          "HIM049",
+          "sout_Nantang"
+        ],
+        "dependencies": {
+          "online_player_api": "*",
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3"
+        ],
+        "description": {
+          "en_us": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+        }
+      },
+      "size": 4754,
+      "hash_md5": "87e73cea58bf628bfa6baa7e7f4d682b",
+      "hash_sha256": "221f84599296dfc9b71f494d81d9d1e0e1f37ba3a70eb0cb31b82d75aa00d7f0",
+      "ttl": 100
+    },
+    "95556634": {
+      "meta": {
+        "schema_version": 4,
+        "id": "hibernate_r",
+        "name": "HibernateR",
+        "version": "1.0.0",
+        "link": "https://github.com/HIM049/MCDR_HibernateR",
+        "authors": [
+          "HIM049",
+          "sout_Nantang"
+        ],
+        "dependencies": {
+          "online_player_api": "*",
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3"
+        ],
+        "description": {
+          "en_us": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+        }
+      },
+      "size": 4745,
+      "hash_md5": "480432053667dd36f9a8941948b1d952",
+      "hash_sha256": "f48e663e0a6a21c221c863d81ca4f053e4b0a98de7791019d56c1e7b8c1fa193",
+      "ttl": 100
+    },
+    "95489638": {
+      "meta": {
+        "schema_version": 4,
+        "id": "hibernate_r",
+        "name": "HibernateR",
+        "version": "0.1.0",
+        "link": "https://github.com/HIM049/MCDR_HibernateR",
+        "authors": [
+          "HIM049",
+          "sout_Nantang"
+        ],
+        "dependencies": {
+          "online_player_api": "*",
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+        }
+      },
+      "size": 12042,
+      "hash_md5": "765fcf37b4989d3c78867eb1efeda6f0",
+      "hash_sha256": "a9fc1a688d500de6d4107683b5df10b4dd431913a5d6af70be64863e31be8c0b",
+      "ttl": 100
+    },
+    "206936449": {
+      "meta": {
+        "schema_version": 4,
+        "id": "hibernate_r",
+        "name": "HibernateR",
+        "version": "1.2.2",
+        "link": "https://github.com/HIM049/MCDR_HibernateR",
+        "authors": [
+          "HIM049",
+          "sout_Nantang",
+          "RCUTANF"
+        ],
+        "dependencies": {
+          "online_player_api": "*",
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3"
+        ],
+        "description": {
+          "en_us": "A MCDReforged plugin. When there are no player in the server, the plugin can make it shutdown. And if someone want to visit the server, the plugin can make the server start again.",
+          "zh_cn": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+        }
+      },
+      "size": 10562,
+      "hash_md5": "ae0b81c3bbef894d52eab5326e3e92e8",
+      "hash_sha256": "f2e6a9dac8151ed4eb2e4181ed4750d3214091bf923baeebae6876b46b6bb83c",
+      "ttl": 100
+    },
+    "231000324": {
+      "meta": {
+        "schema_version": 4,
+        "id": "hibernate_r",
+        "name": "HibernateR",
+        "version": "1.2.3",
+        "link": "https://github.com/HIM049/MCDR_HibernateR",
+        "authors": [
+          "HIM049",
+          "sout_Nantang",
+          "RCUTANF"
+        ],
+        "dependencies": {
+          "online_player_api": "*",
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3"
+        ],
+        "description": {
+          "en_us": "A MCDReforged plugin. When there are no player in the server, the plugin can make it shutdown. And if someone want to visit the server, the plugin can make the server start again.",
+          "zh_cn": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+        }
+      },
+      "size": 22997,
+      "hash_md5": "e9df8ea64158ed3180456c76f06397c7",
+      "hash_sha256": "cf90d57f75fdf5a75edff31058f44211b1925093e8898e2db7f8ebec78617fa7",
+      "ttl": 100
+    },
+    "235500750": {
+      "meta": {
+        "schema_version": 4,
+        "id": "hibernate_r",
+        "name": "HibernateR",
+        "version": "1.2.4",
+        "link": "https://github.com/HIM049/MCDR_HibernateR",
+        "authors": [
+          "HIM049",
+          "sout_Nantang",
+          "RCUTANF"
+        ],
+        "dependencies": {
+          "online_player_api": "*",
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3"
+        ],
+        "description": {
+          "en_us": "A MCDReforged plugin. When there are no player in the server, the plugin can make it shutdown. And if someone want to visit the server, the plugin can make the server start again.",
+          "zh_cn": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+        }
+      },
+      "size": 13943,
+      "hash_md5": "855f0a10cdcdb776c77766d643208f2c",
+      "hash_sha256": "cf34727ddfd64c5761998ae116905b1a54f445f0e255e7c2a9c84042835ddcb7",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"2c6b4b673c90a546d35365cfb0a78126d250200040ea85f32aae24a053067c9f\"",
+    "data": "H4sIAGcrJGgC/62YbW/jNgyA/8ohX9fWzovTXIHhNqzDrsB6uxXdW9fBkG061kW2PFlO1hr97yMlv8TZoddM/eLEFPlIpiiJVDPhyeTizdL3F8vpzJ+fvJkUMoHQSCc34WZ9+dPVqvy42U2oieVA8uvvLm/C9zwCVTANN9SU1kKEXfv7q2t/8db7jFqp+Bb/o1LKRAUokbsCFL43EyHXvBjMSd0O7nzhB/PVYjy268ufl7/+/kHEn/6Yf7j8dnr9uPbJhCGfqbBWgrQyrcvqwvOstDpbc53VUV2BimWhodBnscy92uv6eLf9ekGUtWo5tjMSHRJL3tIsApGVN4w807k4HMSe+qCYSiHkDo3Dl3fg9UYDgRfr4wlo1HhSZ4AOw9Yn8+m80kcNxhg05gfdZRgVuk5BcgylNcHhUEA8NZ6CUlpYHVWx4qXmsjhqYCNDIkm1ZgV/ZEeT0NAAaExHGRoDsoQtBttRptai8cySiR+ebP8x8C069njcgSnR9ENplusvqGciHH/DLYdd2LWUdSR4bCaBawhZkpsVatbu00uj/HP7QAL9zJDtfb0A36fnjJE2pOhxSO7r5TyZkThd3tdp6sf3dTCHlCQQYOtq/pZ0loDPcx/1gxmb4nO5XOFzukKd8zlDnSCKkLD044DkET5XU2BGnzRT6jxYzJC8nE2XpHM+v6/fBmYMB2S75tRmbxN7fh5MEDzjDIJ9aS6fY3gGQKQNPDiByL6hZ7eQY9wmWCQV01I5kUegZvRqOtLAcqcODMDsvFK6edMAzOlTVTW8bKk9CzScql/QRZ1H7V7rzh5WM6sqvi4AnHA9pPH6AyFSrIgzN27HaNp/ds7Z2m3Kmd2VIyEjJxDqeQbSeFXG2lNQh67jIywxxlQFqTOVGANVK8dZNwNVZtY7Jh7HGiPACdsxvKajClasa7Z2w/aQLtNYs0dQriNtKXbTK7TiUe2+5w2cvUQmch3sgDlMj14Ba89k44U859rRAQYxjv9X4FK8/odNAtfdtGOMNml7DLRNr3AOfLaTthxxjjdieM1XJdNZ55WSKXB0CiG8JmKY9Z2dnTUZMJse5KAcF7MlmPNLxRkmqC6wpmNgQpQzbYqI1Aw0wapCSJY4jbWH9FHxCmnBKApKrKKdmAYwQuZcQKVl4ThNPWUEL6TmKY9fVFA9yx+BmncVL2I4YUKcYORpHnOMZ6xV2zMkAuF4gBABP4Tl0JZVApjjYdcxGq9NnRMohXxw3pL2MGY9K0BxEjJNwJk/m5/6s9Pp9HYaXExnF4vlnankymSsFZz6wel0ceuj1uIimN3ZaKuyAyWkWaVVp0Rbdjt8/PuS+o4+zRxMVbZn+c1gd/G8XSwwzo6uKvtet8X/qkgzmUOJWUV33VPxR/ofnI+TjFjWBflr5qN8xzQmtYfSLj8h0scHndnjNGNVaFc8yrWqoZWVSn6CWB9Ih61mJN7xDT8wN4nQUIkaY17FNSbydOsxtNgqsxtpYLYGpWR3VVbgzjHswsmeIeJYJEYiWULRfk1PnNKn8xiKCsx1HlaR5IHcTkt/dXh1++bHVos8Wyb/dBd6V7dfvmZrO6i8Drt/IRgvb38Qn+5+Cx7vbr9/nNAFBaNbLjoONrh9DJ7jVaghL8X4KnIHUZudhFQFyTTFZP3vmqvRt2tZ8pgc++ckjxN1Woqa7i3Jn/ja3lxM/sL3La94xAXXD+O7FFuu2znY82Trwy6ounBKIGW10KEtnIxLme2vBJXzfp6byeh65sTqaTYS0ZLf/xbFbaAO7UK0bnoyVXlehnY9armBolscBegdfsQomvaz2349PP0LbW/4imEWAAA="
+  }
+}

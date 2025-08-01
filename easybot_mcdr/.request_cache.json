@@ -1,0 +1,205 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"91f6c056aad19f6c2e08e2366a22ba7c0c09f94a6e059422cbeddea4c51c3b47\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIALH91mcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "237960738": {
+      "meta": {
+        "schema_version": 4,
+        "id": "easybot_mcdr",
+        "name": "EasyBot",
+        "version": "1.0.2",
+        "link": "https://github.com/easybot-team/easybot-mcdr",
+        "authors": [
+          "MiuxuE"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14"
+        },
+        "requirements": [
+          "websockets~=14.2",
+          "requests~=2.32.3"
+        ],
+        "description": {
+          "en_us": "一款集消息同步、自定义命令、绑定管理、高级权限控制、群组互动、自定义模板支持以及自定义插件支持等全方位功能于一体的服务器管理工具，全方位优化游戏社区体验!"
+        }
+      },
+      "size": 17557,
+      "hash_md5": "e0284152ce686693a6e2fa60a9cdc0a8",
+      "hash_sha256": "50294af1635ef60ee6f42414a25e573d2dc548eafb5ff016dae87e0f323bbd89",
+      "ttl": 100
+    },
+    "240018136": {
+      "meta": {
+        "schema_version": 4,
+        "id": "easybot_mcdr",
+        "name": "EasyBot",
+        "version": "1.0.3",
+        "link": "https://github.com/easybot-team/easybot-mcdr",
+        "authors": [
+          "MiuxuE"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14"
+        },
+        "requirements": [
+          "websockets~=14.2",
+          "requests~=2.32.3"
+        ],
+        "description": {
+          "en_us": "一款集消息同步、自定义命令、绑定管理、高级权限控制、群组互动、自定义模板支持以及自定义插件支持等全方位功能于一体的服务器管理工具，全方位优化游戏社区体验!"
+        }
+      },
+      "size": 18145,
+      "hash_md5": "cc90858f8d8b6d2b604b51b18c74f06e",
+      "hash_sha256": "33d910c7b108bdd167e2a695bc74d574ef617fc972d96f67baddbc2edaad7f55",
+      "ttl": 100
+    },
+    "240895040": {
+      "meta": {
+        "schema_version": 4,
+        "id": "easybot_mcdr",
+        "name": "EasyBot",
+        "version": "1.0.4",
+        "link": "https://github.com/easybot-team/easybot-mcdr",
+        "authors": [
+          "MiuxuE"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14"
+        },
+        "requirements": [
+          "websockets~=14.2",
+          "requests~=2.32.3"
+        ],
+        "description": {
+          "en_us": "一款集消息同步、自定义命令、绑定管理、高级权限控制、群组互动、自定义模板支持以及自定义插件支持等全方位功能于一体的服务器管理工具，全方位优化游戏社区体验!"
+        }
+      },
+      "size": 19566,
+      "hash_md5": "abd000b6ff148eeb781585f154b68bbf",
+      "hash_sha256": "fe455a46d3020e7ef038e579d68fe394baf8ff49402104f6535559483c4bc2c3",
+      "ttl": 100
+    },
+    "252291674": {
+      "meta": {
+        "schema_version": 4,
+        "id": "easybot_mcdr",
+        "name": "EasyBot",
+        "version": "1.1.0",
+        "link": "https://github.com/easybot-team/easybot-mcdr",
+        "authors": [
+          "MiuxuE"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14"
+        },
+        "requirements": [
+          "websockets~=14.2",
+          "requests~=2.32.3"
+        ],
+        "description": {
+          "en_us": "一款集消息同步、自定义命令、绑定管理、高级权限控制、群组互动、自定义模板支持以及自定义插件支持等全方位功能于一体的服务器管理工具，全方位优化游戏社区体验!"
+        }
+      },
+      "size": 22467,
+      "hash_md5": "21eaaa334970da2b12e4f586ffd60762",
+      "hash_sha256": "a4c757ffb3e4434f1987cd9a773c7edb436cb27ed1fd6c6056ee6c228729a71d",
+      "ttl": 100
+    },
+    "262621791": {
+      "meta": {
+        "schema_version": 4,
+        "id": "easybot_mcdr",
+        "name": "EasyBot",
+        "version": "1.1.3",
+        "link": "https://github.com/easybot-team/easybot-mcdr",
+        "authors": [
+          "MiuxuE"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14"
+        },
+        "requirements": [
+          "websockets~=14.2",
+          "requests~=2.32.3"
+        ],
+        "description": {
+          "en_us": "一款集消息同步、自定义命令、绑定管理、高级权限控制、群组互动、自定义模板支持以及自定义插件支持等全方位功能于一体的服务器管理工具，全方位优化游戏社区体验!"
+        }
+      },
+      "size": 24722,
+      "hash_md5": "39a11bc0269dd66eaf2d56e3fdfe412c",
+      "hash_sha256": "bf10896cb563e0ea1d33144e141e451dcc69e4b60887f5697ff8c5a26a3734da",
+      "ttl": 100
+    },
+    "276553893": {
+      "meta": {
+        "schema_version": 4,
+        "id": "easybot_mcdr",
+        "name": "EasyBot",
+        "version": "1.1.4",
+        "link": "https://github.com/easybot-team/easybot-mcdr",
+        "authors": [
+          "MiuxuE",
+          "LBY123165"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14"
+        },
+        "requirements": [
+          "websockets~=14.2",
+          "requests~=2.32.3"
+        ],
+        "description": {
+          "en_us": "一款集消息同步、自定义命令、绑定管理、高级权限控制、群组互动、自定义模板支持以及自定义插件支持等全方位功能于一体的服务器管理工具，全方位优化游戏社区体验!"
+        }
+      },
+      "size": 25904,
+      "hash_md5": "f775873444307b2656b9718fa5d03e6c",
+      "hash_sha256": "0578c19e5d77b37e57a2f4f25f9c50d483c7ec851756748835264a2122fd2c20",
+      "ttl": 100
+    },
+    "277371933": {
+      "meta": {
+        "schema_version": 4,
+        "id": "easybot_mcdr",
+        "name": "EasyBot",
+        "version": "1.1.4",
+        "link": "https://github.com/easybot-team/easybot-mcdr",
+        "authors": [
+          "MiuxuE",
+          "LBY123165"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14"
+        },
+        "requirements": [
+          "websockets~=14.2",
+          "requests~=2.32.3"
+        ],
+        "description": {
+          "en_us": "一款集消息同步、自定义命令、绑定管理、高级权限控制、群组互动、自定义模板支持以及自定义插件支持等全方位功能于一体的服务器管理工具，全方位优化游戏社区体验!"
+        }
+      },
+      "size": 26040,
+      "hash_md5": "ef1c346bb75bbfeaf2dfbb1bdadcdab9",
+      "hash_sha256": "2eedba1c0eb322cf962ed7ccaad152db2fd09f148dcc3fcdaffea5a15776e96e",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"4d2fadc7bb840df8ba2390f4c440634c075a22709cdab7d4af44bcf3dc4d9cef\"",
+    "data": "H4sIAGBaiWgC/+2YS2/jNhCA/4rhaxNLll+JgcU2aIpcdptgkbRAmkKgpJHFDSWqJGWvI/i/d0g9LDmLPCzdmksiDzkfR6PhkDP5kAbD5eB8OrHtib2YnwyGCQ/ANdLhN/dxdXl9fXn354+LoR4iMWg5ELn1uDqN/UBoeZgx5h4OKiCxdTgzFXRNlJ4XEiYBJXyTgMDf+ZDxFU0OCVrJGOPY4/l8tphO2iZeGxMvL+7k00bPJYgnws0E06ORUqlcWlYhlaMVVVHmZRKEzxMFiRr5PLYyq4Z/Xn+aasxKlKBiFS06RKa0xBUMZErr0PJIxezQlobS4fSQM8Y3CHLfu5hVq+45NFkdy0HV3OIqAvQkztkZl1CpjjDMqOXmHzrTkCQ6VkDwflapiKbpoNnlloCUF8jMk76gqaI8OcLIlrrmcbEiCX0iR/JQ3WC0fUeoGzWtD2uM0SMAhV5ume3mb3eFLT7QNbr9WOgBQDPVNjV7/rrhLrNXUNtdU9i41Yw08xj1zaeiClwSxGavmyywe99OeZZUAqg/nlZ/yKZg2/qvQx6yWQAzfA5nPj4vnLOvv11+MzNwbDE/mz5kc2c8rp6nMJ7j82yKsxch0aMLO0DNqY2SuTdH1nwSOHpmOC/2mnhspLOXvWo+7Msvo3mvfZxXMJZhaNgjbLuyNCLXf6vd62OGIB4XRHHRFd5i5a2fZi2t0XUNwzDJmPPOnjUMcyZJmcHbttJrTIOS9Z5NstgrU24v+P1uJVLSVQLQlVhzcqs+HTxBEj/qjK4weflURAFZdQ4CUiRkj3GvKwunWoaTWzIi5dmo3B6s1GSNaYMFhH2ANWYPVqJ7HBhzhYmDCosntMKY6EquMFZegRlJVhlZdSbXnOoisiJPIHqwtwQVGTJRgnpZLwlyj2rcc7weTN6TDi9Q/ZDT6jKAOjFV3T1hKO2t0Q9ax/EzvBb0kH0rTCuvF4dHOdTP6fHTdcoip48g1Bgr/yUlKqrckxIB3b2jKVbuEbwGjkajPAJSXDNiEN13ewExZ5/wI7y8duTlFQZvWDFRpgIJjbkBliSMk6CrxTWnjpN+rhetuEixXu+KNYwWNaYMpOJJ969Wg1r8hCsaUv9NNdlrS7RY+WdJEx9OCGMnGI6K+hTjHGvg8uTxgHU/djQEX4fEUFZjDCd0dlWFya3ydh5Ayvi2j8zVIJkNL4AoLP6I0kzHdman9uTUnt3aznLmLCfOvSn80uDZrMWpc37rTJbjxdKx74v4k9HPJo3t5fh8OZncV/m9fAN8fGM5qF/QHGcyaij/ulddvqrqM4y8Y0rReu11cmwlG/EYUrydVD0nSZ/083h61r6t+DxLtPNmKN4QhTfmA2F1zdGgm62KipM4ItIt0gHKlciglKWCfwdfHUj3qagl3tBH2ih4jb65ULVlAZV+hoWCbqjsR4rqtrLUMVlDCF417BJMKvtkHTQUEUc81hLxFJLydVpERn1IJJieItat2gVklbLTychuNjGv/rgbXIQhCD64ggQEYYMb06QYfCkAg3WpIdPgR9kIvLi6+VKBXt5epRXSaq29b1x+vfTnt1fs+/1fs6f7298/DXUXhOjmmz5cHjH77N1OpasgTlm7c7oBr7wAuboe42GIpcK/GRUtLymeUl9/gr//wV9rKqlHGVXbdlOm6BgU/mv4tZRUIVYGVwAhyZhyixJNg2JCTYClIGJaf/R82GrznBTzFGmJdC5omitoEbb7ccZKT+xMRyBO3WKLKv4ISbVTMNYUj3Ukow2KGtPz3UEn76PN/NFm/mgz/5/bzAmoDaa61nnRrKlr+e4/u0YiFhobAAA="
+  }
+}
